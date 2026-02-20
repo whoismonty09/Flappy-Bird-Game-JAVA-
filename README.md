@@ -38,3 +38,18 @@ The player clicks the Start button to begin the game and controls the bird using
 - Click Start Game button to begin
 - Press Spacebar to make the bird jump
 - Avoid hitting the pipes or screen borders
+
+---
+
+##📌 Future Improvements
+
+- Add sound effects
+- Add bird and pipe images
+- Add difficulty levels
+- Add restart and exit buttons
+- Add main menu screen
+
+---
+
+
+
