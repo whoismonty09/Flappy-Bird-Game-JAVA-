@@ -30,3 +30,11 @@ The player clicks the Start button to begin the game and controls the bird using
 3. Compile the program:
    ```bash
    javac FlappyBirdGame.java
+
+---
+
+##🎯 Controls
+
+- Click Start Game button to begin
+- Press Spacebar to make the bird jump
+- Avoid hitting the pipes or screen borders
