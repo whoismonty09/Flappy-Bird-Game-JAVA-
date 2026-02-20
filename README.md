@@ -51,5 +51,6 @@ The player clicks the Start button to begin the game and controls the bird using
 
 ---
 
-
+## 👨‍💻 Author
+Developed by Monty
 
